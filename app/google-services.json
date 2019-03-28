@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "300685324629",
+    "firebase_url": "https://intercorp-challenge-service.firebaseio.com",
+    "project_id": "intercorp-challenge-service",
+    "storage_bucket": "intercorp-challenge-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300685324629:android:77bba1cba468deaa",
+        "android_client_info": {
+          "package_name": "com.leguia.intercorpchallengeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300685324629-pd40dtmaqkahgc9ac191gdpp6j5vrofr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leguia.intercorpchallengeapp",
+            "certificate_hash": "57c711acc8a99906cbf7e1af23fdef42e1e7a580"
+          }
+        },
+        {
+          "client_id": "300685324629-8gsial7i1a7ertug7goqra47m6g36b12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSfBtIqoeXUZtV-lnEeZeOiwrCl5XSzBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300685324629-8gsial7i1a7ertug7goqra47m6g36b12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
